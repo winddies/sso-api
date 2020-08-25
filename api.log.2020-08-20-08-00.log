@@ -1,8 +1,0 @@
-{"level":"info","msg":"map[]","request_id":"bsv4loth5s5kc1bkodt0","time":"2020-08-20T18:05:24+08:00","user_ip":"127.0.0.1"}
-{"level":"error","msg":"\u003cGetTokenInfo\u003e authToken get tokenInfo error, redis: nil","request_id":"bsv4loth5s5kc1bkodt0","time":"2020-08-20T18:05:24+08:00","user_ip":"127.0.0.1"}
-{"level":"info","msg":"zhangheng","request_id":"bsv4mjth5s5kc1bkodu0","time":"2020-08-20T18:07:11+08:00","user_ip":"127.0.0.1"}
-{"level":"info","msg":"\u0026{UserName:zhangheng UserId:1295207462441324544 Registertime:\u0001\u0000\u0000\u0000\u000e\ufffd\ufffd\ufffd\ufffd\u001dyY`\u0001\ufffd}","request_id":"bsv4mjth5s5kc1bkodu0","time":"2020-08-20T18:07:11+08:00","user_ip":"127.0.0.1"}
-{"level":"info","msg":"map[clientId: globalSessionId:JB4GRDZUGELASLEQCPPWARTNFBDGW5GTXJUMG4WFMAFKEDRO4UTA userId:1295207462441324544 userName:zhangheng]","request_id":"bsv4mjth5s5kc1bkodug","time":"2020-08-20T18:07:11+08:00","user_ip":"127.0.0.1"}
-{"level":"info","msg":"zhangheng","request_id":"bsv7rh5h5s5kc1bkodv0","time":"2020-08-20T21:42:28+08:00","user_ip":"127.0.0.1"}
-{"level":"info","msg":"\u0026{UserName:zhangheng UserId:1295207462441324544 Registertime:\u0001\u0000\u0000\u0000\u000e\ufffd\ufffd\ufffd\ufffd\u001dyY`\u0001\ufffd}","request_id":"bsv7rh5h5s5kc1bkodv0","time":"2020-08-20T21:42:28+08:00","user_ip":"127.0.0.1"}
-{"level":"info","msg":"map[clientId: globalSessionId:YM7Y2GL6N2QODTL3AD4ULN4ZH3WCC3LKE3ZBJRYGJTGYNM6EXTKQ userId:1295207462441324544 userName:zhangheng]","request_id":"bsv7rh5h5s5kc1bkodvg","time":"2020-08-20T21:42:28+08:00","user_ip":"127.0.0.1"}
