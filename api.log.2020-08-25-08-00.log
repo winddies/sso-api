@@ -1,0 +1,3 @@
+{"level":"info","msg":"zhangheng","request_id":"bt25q6lh5s5lt1kkj8fg","time":"2020-08-25T08:36:42+08:00","user_ip":"127.0.0.1"}
+{"level":"info","msg":"\u0026{UserName:zhangheng UserId:1297812835748810752 Registertime:\u0001\u0000\u0000\u0000\u000e\ufffd\ufffdq\u00025m#\ufffd\u0001\ufffd}","request_id":"bt25q6lh5s5lt1kkj8fg","time":"2020-08-25T08:36:42+08:00","user_ip":"127.0.0.1"}
+{"level":"info","msg":"map[clientId: globalSessionId:FPGENT7EFNS6ZFTUJG2PUIZQQXFBOUKG43267Y6GKZMKFLP367KQ userId:1297812835748810752 userName:zhangheng]","request_id":"bt25q6lh5s5lt1kkj8g0","time":"2020-08-25T08:36:42+08:00","user_ip":"127.0.0.1"}
